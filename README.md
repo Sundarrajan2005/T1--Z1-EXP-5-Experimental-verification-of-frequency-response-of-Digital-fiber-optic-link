@@ -1,13 +1,18 @@
 
-Exp 5 Experimental verification of frequency response of Digital fiber optic link
+## Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
-## AIM
+## NAME: SUNDARRAJAN K
+## REG NO: 212223060279
+
+## AIM:
+
 To analyze the relationship between input and received signal of a 600nm fiber optic cable using digital link.
 
 ---
 
-## EQUIPMENTS REQUIRED
+## EQUIPMENTS REQUIRED:
+
 -	Link-B Kit with power supply.
 -	Patch chords.
 -	20MHz Dual Channel Oscilloscope.
@@ -17,7 +22,8 @@ To analyze the relationship between input and received signal of a 600nm fiber o
 
 ---
 
-## THEORY
+## THEORY:
+
 
 Fiber optic links can be used for transmission of digital as well as analog signals. Basically a fiber optic link contains three main elements, a transmitter, an optical fiber and a receiver. The transmitter module takes the input signal in electrical form and then transforms it into optical (light) energy containing the same information. The optical fiber is the medium which takes the energy to the receiver. At the receiver light is converted back into electrical form with the same pattern as originally fed to the transmitter.
 
@@ -33,7 +39,8 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ---
 
-## PROCEDURE
+## PROCEDURE:
+
 
 -	Connect the power supply with proper polarity to the kit link-B and switch it on.
 -	Keep all Switch Faults in OFF position.
@@ -67,27 +74,24 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 ---
 
 
-## BLOCK DIAGRAM
-
-*(Insert block diagram here)*
-
 ---
 
-## TABULATION  
+## TABULATION:
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="1365" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d157599-ef5a-4bdd-bd97-6e36b9e82e06" />
+
+
 
 ---
 
-## MODEL GRAPH
+## MODEL GRAPH:
 
-*(Insert model graph here)*
+<img width="1600" height="1257" alt="image" src="https://github.com/user-attachments/assets/f34cd742-61d5-42c9-85b3-037d842c0d99" />
+
 
 ---
 
-## RESULT
+## RESULT:
 
-*(Summarize observations and conclusions here)*
+The frequency response of the digital fiber optic link was experimentally analyzed by varying the input signal frequency and observing the corresponding output signal characteristics.
