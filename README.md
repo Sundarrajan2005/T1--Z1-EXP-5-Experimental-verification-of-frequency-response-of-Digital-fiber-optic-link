@@ -87,6 +87,12 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## MODEL GRAPH:
 
+<img width="879" height="390" alt="image" src="https://github.com/user-attachments/assets/7211ba58-2fe5-46f2-b630-346b662dd180" />
+
+
+## OUTPUT GRAPH:
+
+
 <img width="1600" height="1257" alt="image" src="https://github.com/user-attachments/assets/f34cd742-61d5-42c9-85b3-037d842c0d99" />
 
 
